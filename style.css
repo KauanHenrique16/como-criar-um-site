@@ -1,2 +1,8 @@
-header{
-    background-color: ;
+.header{
+    margin: 0px;
+    padding: 0px;
+    height: 250px;
+    background-color: #ff9E9E;
+    display: flex;
+    align-items: center;
+     

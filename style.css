@@ -1,8 +1,13 @@
-.header{
-    margin: 0px;
+    .header{
+        background-color: #ff9E9e;
     padding: 0px;
+    margin: 0px;
     height: 250px;
-    background-color: #ff9E9E;
+    background:;
     display: flex;
     align-items: center;
-     
+     justify-content: space-between;
+    }
+    .titulo-corpo{
+        display: flex;
+        justify-content: center;
